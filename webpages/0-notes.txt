@@ -3,7 +3,7 @@ Progress
 [Y] Upload mp3s for track 1
 [Y] Add audio controls for track 2
 [_] Upload mp3s for track 2
-[_] Add audio controls for track 3
+[Y] Add audio controls for track 3
 [_] Upload mp3s for track 3
 [_] Add audio controls for track 4
 [_] Upload mp3s for track 4
