@@ -17,8 +17,8 @@
 #div8,
 #div9,
 #div10 {
-    text-align: center;
-    width: 250px;
+    width: 80%;
+    margin: 0px auto;
     height: 20px;
     padding: 10px;
     border: 1px solid #aaaaaa;
