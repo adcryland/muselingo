@@ -6,7 +6,21 @@
     font-family: Arial, Geneva, Helvetica, sans-serif;
     font-size: large;
 }
-
+.theme-green {
+    background-color: #ccefff;
+}
+.theme-lilac {
+    background-color: #ccefff;
+}
+.theme-peach {
+    background-color: #ccefff;
+}
+.theme-pink {
+    background-color: #ccefff;
+}
+.theme-yellow {
+    background-color: #ccefff;
+}
 #div1,
 #div2,
 #div3,
@@ -17,7 +31,7 @@
 #div8,
 #div9,
 #div10 {
-    width: 80%;
+    width: 100%;
     margin: 0px auto;
     height: 20px;
     padding: 10px;
