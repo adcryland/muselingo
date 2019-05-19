@@ -8,18 +8,38 @@
 }
 .theme-green {
     background-color: #e6faef;
+    text-align: center;
+    color: blue;
+    font-family: Arial, Geneva, Helvetica, sans-serif;
+    font-size: large;
 }
 .theme-lilac {
     background-color: #ccefff;
+    text-align: center;
+    color: blue;
+    font-family: Arial, Geneva, Helvetica, sans-serif;
+    font-size: large;
 }
 .theme-peach {
     background-color: #ffedcc;
+    text-align: center;
+    color: blue;
+    font-family: Arial, Geneva, Helvetica, sans-serif;
+    font-size: large;
 }
 .theme-pink {
     background-color: #fae6e6;
+    text-align: center;
+    color: blue;
+    font-family: Arial, Geneva, Helvetica, sans-serif;
+    font-size: large;
 }
 .theme-yellow {
     background-color: #ffffe0;
+    text-align: center;
+    color: blue;
+    font-family: Arial, Geneva, Helvetica, sans-serif;
+    font-size: large;
 }
 #div1,
 #div2,
