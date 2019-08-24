@@ -5,9 +5,11 @@
 <link rel="stylesheet" href="/assets/css/style.css"><title>
 19
 </title>
-</head>
-<body class="theme-green">
 
+</head>
+
+<body class="theme-blue">
+  
 <svg width="100%" height="10">
   <rect width="20%" height="10" 
   style="fill:rgb(0,255,0);stroke-width:1;stroke:rgb(0,0,0)" />
@@ -28,45 +30,63 @@
 
 <h1>19</h1>
 
-   
 <p>  
 <audio controls autoplay loop>
-  <source src="../audio/c/04m.mp3" type="audio/mpeg">
+  <source src="../audio/d/04m.mp3" type="audio/mpeg">
 </audio>   
 </p>
 <p>  
 <audio controls autoplay loop>
-  <source src="../audio/b/19s.mp3" type="audio/mpeg">
+  <source src="../audio/ss/04s.mp3" type="audio/mpeg">
 </audio>   
-</p>   
+</p>  
 <p>   
 <audio controls autoplay loop>
-  <source src="../audio/c/04t.mp3" type="audio/mpeg">
+  <source src="../audio/d/04t.mp3" type="audio/mpeg">
 </audio>
 </p> 
 
+<h2>
+Cofrestra am ddim.<br />
+Mae’n hwyl ac yn hawdd.<br />
+Gwrando a deallt.<br />
+Siarad a cofio.<br />
+</h2>
+
 <p>
 <mark>
-<b>Speak aloud the Welsh words!</b>
+<b>Sort the words below...</b>
 </mark>
-</p>  
-  
+</p>
+
 <h2>
-I'm tired.<br /> 
-Dwi wedi blino.<br /> 
-I feel ill.<br /> 
-Dwi'n teimlo'n s&acirc;l.<br /> 
-Where is the toilet?<br /> 
-Ble mae'r toiled?<br /> 
-Thanks!<br /> 
-Diolch!<br /> 
-You're welcome!<br /> 
-Croeso!<br />  
+<div id="drag4" draggable="true" ondragstart="drag(event)" width="336" height="69">
+Cofrestra am ddim.<br />
+</div>
+  
+<div id="drag3" draggable="true" ondragstart="drag(event)" width="336" height="69">
+Gwrando a deallt.<br />
+</div>
+
+<div id="drag2" draggable="true" ondragstart="drag(event)" width="336" height="69">
+Mae’n hwyl ac yn hawdd.<br />
+</div>
+
+<div id="drag1" draggable="true" ondragstart="drag(event)" width="336" height="69">
+Siarad a cofio.<br />
+</div>
+</h2>
+
+<h2>
+<div id="div1" ondrop="drop(event)" ondragover="allowDrop(event)"></div>
+<div id="div2" ondrop="drop(event)" ondragover="allowDrop(event)"></div>
+<div id="div3" ondrop="drop(event)" ondragover="allowDrop(event)"></div>
+<div id="div4" ondrop="drop(event)" ondragover="allowDrop(event)"></div>  
 </h2>
 
 <p>
 <a href="20.htm"><mark>[>]</mark></a>
 </p>
-
+<script src="/assets/js/main.js"></script>
 </body>
 </html>
