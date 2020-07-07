@@ -1,3 +1,3 @@
-Music mp3s are 30s long.
+Music mp3s are 20s long.
 Fade in for 2s.
-Fade out from 20s (yes, twenty!).
+Fade out from 15s.
